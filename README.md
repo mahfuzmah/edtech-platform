@@ -159,7 +159,7 @@ Open config/auth.php
 Find the 'guards' array
 Add/modify the 'api' guard to use 'driver' => 'jwt'
 
-4. Configure JWT Settings (Optional but Recommended)
+4. Configure JWT Settings
 
 Open config/jwt.php
 Review and adjust the settings
